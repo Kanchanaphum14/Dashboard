@@ -10,6 +10,6 @@
 
 ### Sample Visualization
 
-![image](https://github.com/user-attachments/assets/a285abce-73b3-448a-82fc-e09d2af2f666)
+![image](https://github.com/user-attachments/assets/1f0f593d-19d4-402e-bc5b-df629a1de31e)
 
 Contact : kanchanaphum14@gmail.com
