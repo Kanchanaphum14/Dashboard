@@ -12,6 +12,12 @@
 
 ![Screenshot 2024-05-30 220813](https://github.com/Kanchanaphum14/Dashboard/assets/159884299/c6b79f70-4e4f-4b81-94e3-c28ad9ba5556)
 
+## Project Prime Video Total Shows Report
+
+### Sample Visualization
+
+![image](https://github.com/user-attachments/assets/31f9d675-0724-4117-b6bb-83efbbee425d)
+
 ## Project Air Quality Report
 
 ### Sample Visualization
