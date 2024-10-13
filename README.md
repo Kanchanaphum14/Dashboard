@@ -2,6 +2,8 @@
 
 ## Practice Project : Netflix Rating Analytics Report
 
+Uncover the data behind your favorite Netflix titles. This dashboard offers data-driven insights into Netflix's content library, including ratings, genres, and global popularity. Filter by movie or TV show to find specific trends and patterns.
+
 ### Sample Visualization
 
 ![image](https://github.com/user-attachments/assets/0ef99cc1-4c3e-4083-bd7d-b77b6cc2269f)
