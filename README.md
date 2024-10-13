@@ -10,6 +10,8 @@ Uncover the data behind your favorite Netflix titles. This dashboard offers data
 
 ## Practice Project : Maven Market Report
 
+Monitor Maven Market's business at a glance. Track key metrics like sales, profits, and returns against set goals. Dive deep into product performance, geographic insights, and weekly trends. Make data-driven decisions with comprehensive dashboard.
+
 ### Sample Visualization
 
 ![Screenshot 2024-05-30 220813](https://github.com/Kanchanaphum14/Dashboard/assets/159884299/c6b79f70-4e4f-4b81-94e3-c28ad9ba5556)
